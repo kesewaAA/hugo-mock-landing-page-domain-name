@@ -16,11 +16,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/privacy-policy/</loc>
-    <lastmod>2025-04-22T00:35:51-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/contact/</loc>
     <lastmod>2025-03-11T16:42:34-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,7 +57,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/tags/privacy/</loc>
-    <lastmod>2025-04-22T00:35:51-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -71,7 +65,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/tags/</loc>
-    <lastmod>2025-04-22T00:35:51-04:00</lastmod>
+    <lastmod>2025-03-11T16:42:34-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
