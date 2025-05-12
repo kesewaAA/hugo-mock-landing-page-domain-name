@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PCOS on YouStyle</title>
+    <link>http://localhost:58507/hugo-bootstrap-theme/tags/pcos/</link>
+    <description>Recent content in PCOS on YouStyle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
+    <lastBuildDate>Mon, 12 May 2025 13:08:04 -0400</lastBuildDate>
+    <atom:link href="http://localhost:58507/hugo-bootstrap-theme/tags/pcos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 Myths About PCOS Debunked</title>
+      <link>http://localhost:58507/hugo-bootstrap-theme/post/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58507/hugo-bootstrap-theme/post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

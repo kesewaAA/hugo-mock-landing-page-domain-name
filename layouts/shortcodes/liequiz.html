@@ -1,0 +1,43 @@
+<!-- layouts/shortcodes/liequiz.html -->
+<div class="lie-quiz-container">
+  <ul class="lie-quiz-options">
+    <li data-lie="false">I have never had a quesadilla</li>
+    <li data-lie="false">I come from Accra, Ghana</li>
+    <li data-lie="true">I've read Homer's Odyssey</li>
+  </ul>
+</div>
+
+<style>
+  .lie-quiz-options li {
+    list-style-type: none;
+    margin: 0.5em 0;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    position: relative;
+  }
+
+  .lie-quiz-options li:hover:not(.answered) {
+    background-color: #f1f1f1;
+  }
+  
+  .lie-quiz-options li.answered {
+    cursor: default;
+  }
+  
+  .lie-quiz-options li.lie-correct {
+    background-color: #c8e6c9;
+  }
+  
+  .lie-quiz-options li.lie-incorrect {
+    background-color: #ffcdd2;
+  }
+  
+  .lie-feedback {
+    display: inline-block;
+    margin-left: 10px;
+    font-weight: bold;
+  }
+</style>
