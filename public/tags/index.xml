@@ -2,74 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on YouStyle</title>
-    <link>http://localhost:60398/hugo-bootstrap-theme/tags/</link>
+    <link>http://localhost:61382/hugo-bootstrap-theme/tags/</link>
     <description>Recent content in Tags on YouStyle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
-    <lastBuildDate>Mon, 12 May 2025 13:24:48 -0400</lastBuildDate>
-    <atom:link href="http://localhost:60398/hugo-bootstrap-theme/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 May 2025 13:41:43 -0400</lastBuildDate>
+    <atom:link href="http://localhost:61382/hugo-bootstrap-theme/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AR</title>
-      <link>http://localhost:60398/hugo-bootstrap-theme/tags/ar/</link>
+      <link>http://localhost:61382/hugo-bootstrap-theme/tags/ar/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:60398/hugo-bootstrap-theme/tags/ar/</guid>
+      <guid>http://localhost:61382/hugo-bootstrap-theme/tags/ar/</guid>
       <description></description>
     </item>
     <item>
       <title>Confidence</title>
-      <link>http://localhost:60398/hugo-bootstrap-theme/tags/confidence/</link>
+      <link>http://localhost:61382/hugo-bootstrap-theme/tags/confidence/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:60398/hugo-bootstrap-theme/tags/confidence/</guid>
+      <guid>http://localhost:61382/hugo-bootstrap-theme/tags/confidence/</guid>
       <description></description>
     </item>
     <item>
       <title>E-Commerce</title>
-      <link>http://localhost:60398/hugo-bootstrap-theme/tags/e-commerce/</link>
+      <link>http://localhost:61382/hugo-bootstrap-theme/tags/e-commerce/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:60398/hugo-bootstrap-theme/tags/e-commerce/</guid>
+      <guid>http://localhost:61382/hugo-bootstrap-theme/tags/e-commerce/</guid>
       <description></description>
     </item>
     <item>
       <title>Fashion 101</title>
-      <link>http://localhost:60398/hugo-bootstrap-theme/tags/fashion-101/</link>
+      <link>http://localhost:61382/hugo-bootstrap-theme/tags/fashion-101/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:60398/hugo-bootstrap-theme/tags/fashion-101/</guid>
+      <guid>http://localhost:61382/hugo-bootstrap-theme/tags/fashion-101/</guid>
       <description></description>
     </item>
     <item>
       <title>FashionTech</title>
-      <link>http://localhost:60398/hugo-bootstrap-theme/tags/fashiontech/</link>
+      <link>http://localhost:61382/hugo-bootstrap-theme/tags/fashiontech/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:60398/hugo-bootstrap-theme/tags/fashiontech/</guid>
+      <guid>http://localhost:61382/hugo-bootstrap-theme/tags/fashiontech/</guid>
       <description></description>
     </item>
     <item>
       <title>Style Guide</title>
-      <link>http://localhost:60398/hugo-bootstrap-theme/tags/style-guide/</link>
+      <link>http://localhost:61382/hugo-bootstrap-theme/tags/style-guide/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:60398/hugo-bootstrap-theme/tags/style-guide/</guid>
+      <guid>http://localhost:61382/hugo-bootstrap-theme/tags/style-guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Virtual Try-On</title>
-      <link>http://localhost:60398/hugo-bootstrap-theme/tags/virtual-try-on/</link>
+      <link>http://localhost:61382/hugo-bootstrap-theme/tags/virtual-try-on/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:60398/hugo-bootstrap-theme/tags/virtual-try-on/</guid>
+      <guid>http://localhost:61382/hugo-bootstrap-theme/tags/virtual-try-on/</guid>
       <description></description>
     </item>
     <item>
       <title>Wardrobe Tips</title>
-      <link>http://localhost:60398/hugo-bootstrap-theme/tags/wardrobe-tips/</link>
+      <link>http://localhost:61382/hugo-bootstrap-theme/tags/wardrobe-tips/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:60398/hugo-bootstrap-theme/tags/wardrobe-tips/</guid>
+      <guid>http://localhost:61382/hugo-bootstrap-theme/tags/wardrobe-tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Featured</title>
+      <link>http://localhost:61382/hugo-bootstrap-theme/tags/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61382/hugo-bootstrap-theme/tags/featured/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>http://localhost:60398/hugo-bootstrap-theme/tags/index/</link>
+      <link>http://localhost:61382/hugo-bootstrap-theme/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60398/hugo-bootstrap-theme/tags/index/</guid>
+      <guid>http://localhost:61382/hugo-bootstrap-theme/tags/index/</guid>
       <description></description>
     </item>
   </channel>

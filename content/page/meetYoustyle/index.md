@@ -1,11 +1,10 @@
 ---
 title: "Why We Built YouStyle"
-date: 2025-05-12
+description: "A brief look into the inspiration behind the revolutionary technology."
 draft: false
-author: "Founder, YouStyle"
-type: "featured"
-summary: "We created YouStyle because fashion should feel good — not frustrating. Here’s the story behind our AR-powered try-on experience."
-
+tags: ["Featured"]
+images: ["markdown-guide-og.jpg"]
+keywords: ["fashion","YouStyle","shopping", "confidence"]
 ---
 
 ### Shopping should be fun. But for me, it wasn’t.
