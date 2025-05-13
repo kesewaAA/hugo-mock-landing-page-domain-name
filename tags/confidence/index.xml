@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Confidence on YouStyle</title>
+    <link>https://kesewaaa.github.io/hugo-mock-landing-page/tags/confidence/</link>
+    <description>Recent content in Confidence on YouStyle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Lisa Ayisi-Ahwireng</copyright>
+    <lastBuildDate>Tue, 13 May 2025 11:13:56 -0400</lastBuildDate>
+    <atom:link href="https://kesewaaa.github.io/hugo-mock-landing-page/tags/confidence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So You Want to Be a Fashion Icon?</title>
+      <link>https://kesewaaa.github.io/hugo-mock-landing-page/post/fashionfun/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0100</pubDate>
+      <guid>https://kesewaaa.github.io/hugo-mock-landing-page/post/fashionfun/</guid>
+      <description>Not sure where to start with fashion? Here’s your no-stress guide to building a wardrobe that slays every day.</description>
+    </item>
+  </channel>
+</rss>

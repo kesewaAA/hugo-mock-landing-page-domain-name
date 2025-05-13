@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on YouStyle</title>
+    <link>https://kesewaaa.github.io/hugo-mock-landing-page/series/</link>
+    <description>Recent content in Series on YouStyle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Lisa Ayisi-Ahwireng</copyright>
+    <atom:link href="https://kesewaaa.github.io/hugo-mock-landing-page/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
