@@ -1,7 +1,7 @@
-baseURL = 'https://kesewaaa.github.io/hugo-mock-landing-page/'
+baseURL = 'https://kesewaaa.github.io/hugo-bootstrap-theme/'
 title = "YouStyle"
 author = "Lisa Ayisi-Ahwireng"
-copyright = "Lisa Ayisi-Ahwireng"
+copyright = "2025 Lisa Ayisi-Ahwireng"
 
 timeZone = 'Europe/London'
 
